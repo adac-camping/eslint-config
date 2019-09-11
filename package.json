@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-pincamp",
+  "version": "0.0.0",
+  "description": "pincamp x eslint",
+  "main": "index.js",
+  "repository": "//github.com/adac-camping/eslint-config-pincamp.git",
+  "author": "PiNCAMP",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.16.0",
+    "eslint-plugin-jsdoc": "^15.8.4",
+    "eslint-plugin-node": "^9.2.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-ramda": "^2.5.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-unicorn": "^10.0.0",
+    "prettier-eslint": "^9.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.3.0"
+  }
+}
