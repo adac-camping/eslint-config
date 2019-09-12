@@ -9,7 +9,6 @@ module.exports = {
     ecmaVersion: 2017,
   },
   extends: [
-    'plugin:react/recommended',
     'plugin:prettier/recommended',
     'prettier/standard',
     'prettier',
